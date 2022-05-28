@@ -1,0 +1,25 @@
+About	: WG++SiteIni.xml
+Author	: Francis De Paemeleere
+Date	: 2013/05/24
+
+WG++SiteIni.xml is a User Defined Language (UDL) file. This file can be imported into Notepad++, to make Notepad++ highlight special WebGrab++ names.
+
+Howto:
+1. open Notepad++
+2. click Language>Define your language...
+3. click Import
+4. select the WG++SiteIni.xml file and click Open
+5. Notepad++ should say "Import Successful."
+6. restart Notepad++
+7. open a WebGrab++ ini file
+8. click Language>WG++SiteIni
+9. the siteini file should now be syntax highlighted
+
+
+Remarks:
+There are still some issues with this file.
+Currently these issue(s) can't be fixed, because of the limitation that the UDL currently has.
+
+Issue(s):
+- if there are ' inside scrub strings, the syntax highlighting can be chaos from that point on. Mostly only the current line is affected
+
