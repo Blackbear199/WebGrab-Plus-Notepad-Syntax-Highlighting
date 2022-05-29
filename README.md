@@ -1,3 +1,3 @@
 # WebGrab-Plus-Notepad-Syntax-Highlighting
 
-Syntax Hightlighting for Notepad++ for WebGrab+Plus ini files.
+Syntax Hightlighting for Notepad++ WebGrab+Plus ini files.
